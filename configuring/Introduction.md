@@ -22,12 +22,11 @@ The following page will appear in your browser.
 
 - Yeah ! download is comleted. Lets start installing. Click the exe file just we downloaded.
 
-
-Ensure that both the Install launcher for all users (recommended) and the Add Python 3.9 to PATH checkboxes at the bottom are checked: typically only first is checked by default.
-
 - Highlight the Install Now (or Upgrade Now) message, and then click it
 
 [![setup](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/pythonsetup.jpg "setup")](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/pythonsetup.jpg "setup")
+
+Ensure that both the Install launcher for all users (recommended) and the Add Python 3.9 to PATH checkboxes at the bottom are checked: typically only first is checked by default.
 
 - Then, what ever windows asks "yes" or "No". Just press "Yes" simply ! It wont affect anything
 - Finally the installation begins
@@ -45,7 +44,7 @@ If the installation is success , the following messgae will be displayed.
 
 [![success](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/pythonsetup_4.jpg "success")](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/pythonsetup_4.jpg "success")
 
-## Bonus
+### Bonus
 
 Alternatively, You can download and install distributions such as Anaconda or Miniconda
 
