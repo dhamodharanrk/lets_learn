@@ -12,7 +12,12 @@ sort: 1
 
 ## How to download and Setup the environment
 
-xyz
+Installing Python is pretty simple, Here am going to demonstrate how i have installed Python in my Windows Machine
+
+- Download latest Python Version from Official page [Here](https://www.python.org/downloads/ "Here")
+
+[![python download](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/www_python_org_download.png "python download")](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/www_python_org_download.png "python download")
+
 ### Python Download & Installing
 
 sss
