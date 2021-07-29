@@ -1,11 +1,11 @@
-title: RunDocs
+title: Lets Learn Python
 lang: en
-description: Extends the continuous integration documentation capabilities of GitHub pages for everyone!
+description: Python beginner guide
 
 remote_theme: rundocs/jekyll-rtd-theme
 
 readme_index:
-  with_frontmatter: true
+  with_frontmatter: false
 
 exclude:
   - Makefile
