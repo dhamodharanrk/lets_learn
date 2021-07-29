@@ -19,4 +19,32 @@ sss
 
 ### Installing Anaconda/Miniconda
 
+## Introduction to IDE
+
+bcjwbcjkwb
+
+### Pycharm
+ddc
+### Spyder
+cwdc
+### Jupyter
+dcwc
+### Google Colab
+cd cw
+
+## Creating simple Hello world script and executing it
+
+dsvwvwqv
+
+## Concept of Packages
+
+cwqcqc
+
+## Installing & loading Packages
+
+wvwv
+
+## Python Naming Conventions
+
+cdwcw
 
