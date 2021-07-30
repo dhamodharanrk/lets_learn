@@ -165,15 +165,3 @@ python hello_world.py
 
 yes,  we just executed a python script. Congratulations! your journey just started in the world of python.
 
-## Concept of Packages
-
-cwqcqc
-
-## Installing & loading Packages
-
-wvwv
-
-## Python Naming Conventions
-
-cdwcw
-
