@@ -1,26 +1,23 @@
 ---
-sort: 11
+sort: 6
 ---
 
-# Custom scss or script
+# Introduction to Python Built-in Functions
 
-via file:
-```
-_includes/assets/custom.js
-_includes/assets/custom.scss
-```
-
-via `_config.yml`:
-```yml
-script: |
-  alert("it");
-  alert("works!");
-
-scss: |
-  .wy-nav-content-wrap{background:#fcfcfc}
-  .wy-nav-content-wrap .wy-nav-content{max-width:none}
-```
-
-```tip
-Please do not use double slashes in script, and be sure to add the semicolon(;) at the end!
-```
+## all
+## any
+## eval
+## format
+## input
+## is instance
+## iter
+## next
+## max
+## min
+## range
+## reversed
+## round
+## sorted
+## str
+## sum
+## type
