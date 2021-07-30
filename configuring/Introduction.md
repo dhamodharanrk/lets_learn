@@ -57,14 +57,69 @@ Alternatively, You can download and install distributions such as Anaconda or Mi
 
 ## Introduction to IDE
 
-bcjwbcjkwb
+According to Wiki, An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger.
+
+The following IDEs are more unqiue and efficiant for Python Programming
 
 ### Pycharm
-ddc
+PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains
+- All the Python Tools in one place
+- A graphical debugger
+- An integrated unit tester
+- Integration support for version control systems (VCSs)
+- Support for data science with Anaconda
+
+You can download and install the community version completly free from [Here](https://www.jetbrains.com/pycharm/download/ "Here")
+
+I am personaly using Pycharm for all of my development works from simple to advanced development works.
+
 ### Spyder
-cwdc
+Spyder is an open-source cross-platform integrated development environment for scientific programming in the Python language.
+
+[![Spyder](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/spyder.png "Spyder")](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/spyder.png "Spyder")
+
+It can be downloaded and install from [here](https://www.spyder-ide.org/ "here"). I suggest you that, install it along with Anaconda (By Default anaconda includes Spyder)
+
+It has multiple features the most usefull feature i found is,
+
+- Interactive execution which allows you to run line, file, cell, etc."
+- Variable Explorer
+
+Along with that it includes other features like,
+
+- Customizable Syntax Highlighting
+- Availability of  breakpoints (debugging and conditional breakpoints)
+- Supports all the IPython magic commands
+- Support for Inline display for graphics produced using Matplotlib
+
+In my experiance its very handly when it comes to developing machine learning or data processing tasks.
+
 ### Jupyter
-dcwc
+Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+
+[![jupyter](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/jupyter.PNG "jupyter")](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/jupyter.PNG "jupyter")
+
+Some of feature of jupyter is,
+
+- Jupyter supports over 40 programming languages, including Python, R, Julia, and Scala.
+- Notebooks can be shared with others using email, Dropbox, GitHub and the Jupyter Notebook Viewer.
+- Your code can produce rich, interactive output: HTML, images, videos, LaTeX, and custom MIME types.
+- Leverage big data tools, such as Apache Spark, from Python, R and Scala. Explore that same data with pandas, scikit-learn, ggplot2, TensorFlow.
+
+In my exeriance its best for Machine Learning activities , as it has web based intractive interface.
+
+It can be installed via PIP
+
+`pip install jupyterlab`
+
+to run it open your command prompt and type 
+
+`jupyter notebook`
+
+it can be accesed in web browser from using http://localhost:8888/tree
+
+alternatively it can be try online from [here](https://jupyter.org/try "here")
+
 ### Google Colab
 cd cw
 
