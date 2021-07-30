@@ -63,6 +63,9 @@ The following IDEs are more unqiue and efficiant for Python Programming
 
 ### Pycharm
 PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains
+
+[![pycharm](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/pycharm.jpg "pycharm")](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/pycharm.jpg "pycharm")
+
 - All the Python Tools in one place
 - A graphical debugger
 - An integrated unit tester
@@ -121,11 +124,46 @@ it can be accesed in web browser from using http://localhost:8888/tree
 alternatively it can be try online from [here](https://jupyter.org/try "here")
 
 ### Google Colab
-cd cw
+
+Colaboratory, or "Colab" for short, allows you to write and execute Python in your browser, with
+
+- Zero configuration required
+- Free access to GPUs
+- Easy sharing
+
+[![colab](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/colab.PNG "colab")](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/colab.PNG "colab")
+
+Colab notebook that lets you write and execute code.
+
+For example, here is a code cell with a short Python script that computes a value, stores it in a variable, and prints the result:
+
+[![colab_cell](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/colab_cell.PNG "colab_cell")](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/colab_cell.PNG "colab_cell")
+
+Is it deficult to start using Google Colab, No!  its pretty simple, you just need a google account to [start using it](https://colab.research.google.com/ "start using it").
 
 ## Creating simple Hello world script and executing it
 
-dsvwvwqv
+Ok. Finally we done setting up the environment using  by installing Python and setting up one of your favorite IDE.
+
+Its time to create simple python script and execute it via command prompt.
+
+- Open Pycharm or simply open Note pad (Yes, am saying it) 
+- Copy below code and paste it in note pad
+
+```python
+print("Hello world, I am Python")
+```
+- Then save the file as **hello_world.py**
+- Yes, you just created a simple Python Script
+- Now, lets **execute**
+- Open a Command Prompt and type following command
+
+```bash
+python hello_world.py
+```
+[![simple script](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/simple_script.PNG "simple script")](https://raw.githubusercontent.com/dhamodharanrk/lets_learn/main/static_files/simple_script.PNG "simple script")
+
+yes,  we just executed a python script. Congratulations! your journey just started in the world of python.
 
 ## Concept of Packages
 
