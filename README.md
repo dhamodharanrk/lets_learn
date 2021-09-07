@@ -1,6 +1,8 @@
 # Learning Simplified
 
-Based on my 6 Plus years of experiance in Python Programming, i am writing this learning series for new developers.
+Hello Readers! Myself Dhamodharan.I am Python Developer with 6+ years of experience in various python based programming technologies. I am writing this article for all new the  developers with interst to learn Python very quickly, So each module are frammed based on work and learning experiance from my past years.
+
+I am pretty sure, you will be Python Programmer in a week! Happy Learning!
 
 ## About Me
 
